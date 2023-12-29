@@ -1,0 +1,20 @@
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.exe.config
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.exe
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.pdb
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.AssemblyReference.cache
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.Form1.resources
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.Properties.Resources.resources
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.exe
+C:\Users\bacily\Desktop\New folder\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.pdb
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.exe.config
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.exe
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\bin\Debug\TINY_COMPILER.pdb
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.AssemblyReference.cache
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.Form1.resources
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.Properties.Resources.resources
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.exe
+C:\Users\bacily\Desktop\compiler\TINY_COMPILER\TINY_COMPILER\obj\Debug\TINY_COMPILER.pdb
